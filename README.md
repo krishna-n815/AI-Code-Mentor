@@ -227,3 +227,9 @@ Add your preferred license such as **MIT License** or **GPL License**.
 - Install **ffmpeg** for audio conversion required by Whisper.
 - Ensure your **API keys** and **database credentials** are correct in `.env`.
 - If using Gmail for email features, enable **App Passwords** when using 2FA.
+
+  ---
+
+## 👩‍💻 Author
+
+**K. Krishnaveni**
