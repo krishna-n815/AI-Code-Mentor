@@ -230,6 +230,6 @@ Add your preferred license such as **MIT License** or **GPL License**.
 
   ---
 
-## 👩‍💻 Author
+## Author
 
 **K. Krishnaveni**
